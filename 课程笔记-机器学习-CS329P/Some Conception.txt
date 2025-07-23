@@ -1,0 +1,21 @@
+tensorboard
+weights & bias
+
+Reproducing is hard, it relates to
+- Environment
+- Code
+- Randomness (seed)
+AutoML
+- Hyperparameter Optimization | HPO
+- Neural Architecture Search  | NAS
+MapReduce, hadoop
+
+categorical
+uniform
+log-uniform
+
+exponent exponential exponentially 
+
+fidelity 忠贞，置信
+
+
