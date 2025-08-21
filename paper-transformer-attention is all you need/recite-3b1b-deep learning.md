@@ -38,3 +38,10 @@
 ![image-20250727230443897](C:\Users\95432\AppData\Roaming\Typora\typora-user-images\image-20250727230443897.png)
 
 ![image-20250727230838898](C:\Users\95432\AppData\Roaming\Typora\typora-user-images\image-20250727230838898.png)
+
+```cpp
+for (int i = 0; i < N; i++)       // 枚举 A 的行
+  for (int j = 0; j < K; j++)     // 枚举 B 的列
+    for (int k = 0; k < M; k++)   // 枚举中间维度
+      C[i][j] += A[i][k] * B[k][j];
+```
